@@ -8,7 +8,7 @@ import AppHeader from "@/components/AppHeader";
 export default function Home() {
   return (
     <>
-      <AppHeader title={"NewbAPI: ShortURL API"} desc={"Shorten your links and amplify your impact with our ShortURL API"} og={"/assets"}/>
+      <AppHeader title={"NewbAPI: ShortURL API"} desc={"Shorten your links and amplify your impact with our ShortURL API"} og={"/assets/shorturlapi-newbapi.png"}/>
       <AppNav />
       <Hero />
       <Content />
